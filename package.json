@@ -1,0 +1,25 @@
+{
+  "name": "stream-adventure",
+  "version": "0.0.1",
+  "description": "node js streams",
+  "main": "app.js",
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagoh/nodejs-stream-adventure.git"
+  },
+  "keywords": [
+    "stream",
+    "pipe"
+  ],
+  "author": "Thiago Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagoh/nodejs-stream-adventure/issues"
+  }
+}
