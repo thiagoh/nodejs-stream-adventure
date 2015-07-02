@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"process"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "stream-concat1.js",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix",
+				"name": "console.log('beep boop');"
+			}
+		},
+		{
+			"contents": "BCES01584-[The Last of Us]/\nduplex-lastofus.r00\nduplex-lastofus.r01\nduplex-lastofus.r02\nduplex-lastofus.r03\nduplex-lastofus.r04\nduplex-lastofus.r05\nduplex-lastofus.r06\nduplex-lastofus.r07\nduplex-lastofus.r08\nduplex-lastofus.r09\nduplex-lastofus.r10\nduplex-lastofus.r11\nduplex-lastofus.r12\nduplex-lastofus.r13\nduplex-lastofus.r14\nduplex-lastofus.r15\nduplex-lastofus.r16\nduplex-lastofus.r17\nduplex-lastofus.r18\nduplex-lastofus.r19\nduplex-lastofus.r20\nduplex-lastofus.r21\nduplex-lastofus.r22\nduplex-lastofus.r23\nduplex-lastofus.r24\nduplex-lastofus.r25\nduplex-lastofus.r26\nduplex-lastofus.r27\nduplex-lastofus.r28\nduplex-lastofus.r29\nduplex-lastofus.r30\nduplex-lastofus.r31\nduplex-lastofus.r32\nduplex-lastofus.r33\nduplex-lastofus.r34\nduplex-lastofus.r35\nduplex-lastofus.r36\nduplex-lastofus.r37\nduplex-lastofus.r38\nduplex-lastofus.r39\nduplex-lastofus.r40\nduplex-lastofus.r41\nduplex-lastofus.r42\nduplex-lastofus.r43\nduplex-lastofus.r44\nduplex-lastofus.r45\nduplex-lastofus.r46\nduplex-lastofus.r47\nduplex-lastofus.r48\nduplex-lastofus.r49\nduplex-lastofus.r50\nduplex-lastofus.r51\nduplex-lastofus.r52\nduplex-lastofus.r53\nduplex-lastofus.r54\nduplex-lastofus.r55\nduplex-lastofus.r56\nduplex-lastofus.r57\nduplex-lastofus.r58\nduplex-lastofus.r59\nduplex-lastofus.r60\nduplex-lastofus.r61\nduplex-lastofus.r62\nduplex-lastofus.r63\nduplex-lastofus.r64\nduplex-lastofus.r65\nduplex-lastofus.r66\nduplex-lastofus.r67\nduplex-lastofus.r68\nduplex-lastofus.r69\nduplex-lastofus.r70\nduplex-lastofus.r71\nduplex-lastofus.r72\nduplex-lastofus.r73\nduplex-lastofus.r74\nduplex-lastofus.r75\nduplex-lastofus.r76\nduplex-lastofus.r77\nduplex-lastofus.r78\nduplex-lastofus.r79\nduplex-lastofus.r80\nduplex-lastofus.r81\nduplex-lastofus.r82\nduplex-lastofus.r83\nduplex-lastofus.r84\nduplex-lastofus.r85\nduplex-lastofus.r86\nduplex-lastofus.r87\nduplex-lastofus.r88\nduplex-lastofus.r89\nduplex-lastofus.r90\nduplex-lastofus.r91\nduplex-lastofus.r92\nduplex-lastofus.r93\nduplex-lastofus.r94\nduplex-lastofus.r95\nduplex-lastofus.r96\nduplex-lastofus.r97\nduplex-lastofus.r98\nduplex-lastofus.r99\nduplex-lastofus.rar\nduplex-lastofus.sfv\nduplex.nfo",
+			"settings":
+			{
+				"buffer_size": 2078,
+				"line_ending": "Unix",
+				"name": "BCES01584-[The Last of Us]/"
+			}
+		},
+		{
+			"contents": "cp duplex-lastofus.r00 /media/thiago/CRUZER/\ncp duplex-lastofus.r01 /media/thiago/CRUZER/\ncp duplex-lastofus.r02 /media/thiago/CRUZER/\ncp duplex-lastofus.r03 /media/thiago/CRUZER/\ncp duplex-lastofus.r04 /media/thiago/CRUZER/\ncp duplex-lastofus.r05 /media/thiago/CRUZER/\ncp duplex-lastofus.r06 /media/thiago/CRUZER/\ncp duplex-lastofus.r07 /media/thiago/CRUZER/\ncp duplex-lastofus.r08 /media/thiago/CRUZER/\ncp duplex-lastofus.r09 /media/thiago/CRUZER/\ncp duplex-lastofus.r10 /media/thiago/CRUZER/\ncp duplex-lastofus.r11 /media/thiago/CRUZER/\ncp duplex-lastofus.r12 /media/thiago/CRUZER/\ncp duplex-lastofus.r13 /media/thiago/CRUZER/\ncp duplex-lastofus.r14 /media/thiago/CRUZER/\ncp duplex-lastofus.r15 /media/thiago/CRUZER/\ncp duplex-lastofus.r16 /media/thiago/CRUZER/\ncp duplex-lastofus.r17 /media/thiago/CRUZER/\ncp duplex-lastofus.r18 /media/thiago/CRUZER/\ncp duplex-lastofus.r19 /media/thiago/CRUZER/\ncp duplex-lastofus.r20 /media/thiago/CRUZER/\ncp duplex-lastofus.r21 /media/thiago/CRUZER/\ncp duplex-lastofus.r22 /media/thiago/CRUZER/\ncp duplex-lastofus.r23 /media/thiago/CRUZER/\ncp duplex-lastofus.r24 /media/thiago/CRUZER/\ncp duplex-lastofus.r25 /media/thiago/CRUZER/\ncp duplex-lastofus.r26 /media/thiago/CRUZER/\ncp duplex-lastofus.r27 /media/thiago/CRUZER/\ncp duplex-lastofus.r28 /media/thiago/CRUZER/\ncp duplex-lastofus.r29 /media/thiago/CRUZER/\ncp duplex-lastofus.r30 /media/thiago/CRUZER/\ncp duplex-lastofus.r31 /media/thiago/CRUZER/\ncp duplex-lastofus.r32 /media/thiago/CRUZER/\ncp duplex-lastofus.r33 /media/thiago/CRUZER/\ncp duplex-lastofus.r34 /media/thiago/CRUZER/\ncp duplex-lastofus.r35 /media/thiago/CRUZER/\ncp duplex-lastofus.r36 /media/thiago/CRUZER/\ncp duplex-lastofus.r37 /media/thiago/CRUZER/\ncp duplex-lastofus.r38 /media/thiago/CRUZER/\ncp duplex-lastofus.r39 /media/thiago/CRUZER/",
+			"settings":
+			{
+				"buffer_size": 1799,
+				"line_ending": "Unix",
+				"name": "cp duplex-lastofus.r00 /media/thiago/CRUZER/"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/thiago/Downloads/cesar.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "stream-concat1.js",
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_name": "console.log('beep boop');",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 2078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2078,
+								2078
+							]
+						],
+						"settings":
+						{
+							"auto_name": "BCES01584-[The Last of Us]/",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 1799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1799,
+								1799
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cp duplex-lastofus.r00 /media/thiago/CRUZER/",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
